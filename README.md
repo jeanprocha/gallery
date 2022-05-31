@@ -1,2 +1,2 @@
  # gallery ReactJS
-Fluxo de upload imagens no Firebase
+Fluxo de upload de imagens no Firebase, feito com ReactJS/TypeScript
